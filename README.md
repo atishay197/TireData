@@ -1,6 +1,6 @@
 # Tire Modeling
 
-Tire is the fundamental componentto determine vehicle dynamics and handling. Improving vehicle performance keeping in mind the lateral and longitudinal dynamics can be done with the help of tire properties. The concept of understeer and oversteer are based on tire properties. Tire stimulation is important to understand the longitudinal and lateral dynamics of a tire. So data from an actual tire stimulation was used to understand tire behavior which will be used for suspension tuning to get the maximum output out of the tire.
+Tire is the fundamental component to determine vehicle dynamics and handling. Improving vehicle performance keeping in mind the lateral and longitudinal dynamics can be done with the help of tire properties. The concept of understeer and oversteer are based on tire properties. Tire stimulation is important to understand the longitudinal and lateral dynamics of a tire. So data from an actual tire stimulation was used to understand tire behavior which will be used for suspension tuning to get the maximum output out of the tire.
 
 ## Runing the tire modeling scripts
 Each script can be run independently. The following is the description of what each of the scripts do:
